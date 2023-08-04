@@ -31,7 +31,7 @@ docker run -p 8000:80 minimal-api-docker
     <img src="https://github.com/jfs-dev/minimal-api-docker/assets/54154628/274f3045-ea01-4d74-96a9-0a2189b978b4"</img>
 </div>
 
-Analisando como ficou a imagem e o contêiner usando o Docker Dekstop: https://www.docker.com/
+Analisando como ficou a imagem e o contêiner usando o Docker Desktop: https://www.docker.com/
 
 <div align="center">
     <img src="https://github.com/jfs-dev/minimal-api-docker/assets/54154628/125c6a0c-3990-42d6-a70c-acd8a3d10f3b"</img>
